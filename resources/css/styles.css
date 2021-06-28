@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Kirang+Haerang&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+
+body {
+    background: rgb(125, 195, 185)!important;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: white !important;
+}
+
+h1 {
+    color: white;
+    font-family: 'Kirang Haerang', cursive;
+}
+h2 {
+    color: #C38D9E;
+    font-family: 'Kirang Haerang', cursive;
+    font-size: 4rem !important;
+}
+
+#terracotta {
+    background-color: #E27D60;
+    justify-content: center;
+    padding: 1rem;
+}
+#monte-carlo{
+    background-color: #85D1CB;
+    justify-content: center;
+    padding: 1rem;
+}
+#tacao {
+    background-color: #E8A87C;
+    justify-content: center;
+    padding: 1rem;
+}
+#oriental-pink {
+    background-color: #C38D9E;
+    justify-content: center;
+    padding: 1rem;
+}
+#keppel {
+    background-color: #41B3A3;
+    justify-content: center;
+    padding: 1rem;
+}
+.font-Kirang  {
+    font-family: 'Kirang Haerang', cursive;
+}
+.font-open-sans {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.font-ubuntu {
+    font-family: 'Ubuntu', sans-serif;
+}
