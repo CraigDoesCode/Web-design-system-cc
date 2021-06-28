@@ -7,7 +7,7 @@ body {
     font-family: 'Open Sans Condensed', sans-serif;
     color: white !important;
 }
-
+/* tags */
 h1 {
     color: white;
     font-family: 'Kirang Haerang', cursive;
@@ -17,7 +17,17 @@ h2 {
     font-family: 'Kirang Haerang', cursive;
     font-size: 4rem !important;
 }
+h3 {
+    font-family: 'Ubuntu', sans-serif;
+    color: #41B3A3;
+    font-weight: 500;
+}
 
+a {
+    color: #E27D60 !important;
+    text-decoration: none !important;
+}
+/* colors */
 #terracotta {
     background-color: #E27D60;
     justify-content: center;
@@ -43,6 +53,8 @@ h2 {
     justify-content: center;
     padding: 1rem;
 }
+
+/* fonts */
 .font-Kirang  {
     font-family: 'Kirang Haerang', cursive;
 }
