@@ -21,6 +21,7 @@ I found out how to find the names of colours, convert RGB to HEX and find colour
 ### Continued Development
 - Lean abous Sass
 - expand bootstap knowledge
+- Make this page responsive
 
 # Author
 - Linkedin - [Craig Norford](https://www.linkedin.com/in/craig-norford-9a33838a/)
