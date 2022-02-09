@@ -8,7 +8,7 @@ In this project, I am building my own basic design system for a website. In esse
  - To deepen my understanding of HTML and CSS Structure
 
 
-### Live Site: https://craig1001.github.io/Web-design-system-cc/
+### Live Site: https://craigdoescode.github.io/Web-design-system-cc/
 # My Process
 
 ### Built With
